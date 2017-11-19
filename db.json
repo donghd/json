@@ -1,20 +1,52 @@
-{"posts": [{"id": 31, "text": "q20", "user_id": {
-  "id" : 1,
-  "name" : "New"
-}}, {"id": 30, "text": "test 3", "user_id": {
-  "id" : 3,
-  "name" : "Proposition"
-}}, {"id": 27, "text": "Interest in your products", "user_id": {
-  "id" : 4,
-  "name" : "Won"
-}}, {"id": 26, "text": "Would appreciate more information about your products", "user_id": {
-  "id" : 3,
-  "name" : "Proposition"
-}}, {"id": 16, "text": "Need a new design for my website", "user_id": {
-  "id" : 2,
-  "name" : "Qualified"
-}},  {"id": 32, "text": "Consulating CRM (2 days)", "user_id": {
-  "id" : 4,
-  "name" : "Won"
-}}]
+{
+  "posts": [
+    {
+      "id": 31,
+      "text": q20 2,
+      "user_id": {
+        "id": 1,
+        "name": "New"
+      }
+    },
+    {
+      "id": 30,
+      "text": test 3 2,
+      "user_id": {
+        "id": 3,
+        "name": Proposition 2
+      }
+    },
+    {
+      "id": 27,
+      "text": Interest in your products 2,
+      "user_id": {
+        "id": 4,
+        "name": "Won"
+      }
+    },
+    {
+      "id": 26,
+      "text": Would appreciate more information about your products 2,
+      "user_id": {
+        "id": 3,
+        "name": "Proposition"
+      }
+    },
+    {
+      "id": 16,
+      "text": Need a new design for my website 2,
+      "user_id": {
+        "id": 2,
+        "name": "Qualified"
+      }
+    },
+    {
+      "id": 32,
+      "text": Consulating CRM (2 days) 2,
+      "user_id": {
+        "id": 4,
+        "name": "Won"
+      }
+    }
+  ]
 }
