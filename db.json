@@ -1,24 +1,56 @@
-{
-  "posts": [
-    {
-      "created_at": "2015-12-13T15:43:35Z",
-      "text": "Hei there 5",
-      "id": "665824674",
-      "user_id": {
-        "username": "sportsmole 4",
-        "id": 2137784,
-        "name": "Sports Mole 4"
-      }
-    },
-    {
-      "created_at": "2015-12-13T15:43:25Z",
-      "text": "Interesting tweet 5",
-      "id": "665824664",
-      "user_id": {
-        "username": "observer 4",
-        "id": 2939134,
-        "name": "kayotinsky"
-      }
-    }
-  ]
+{"posts": [["id": 31, "name": q20, "stage_id": {
+  "id" : 1,
+  "name" : "New"
+}], ["id": 30, "name": test 3, "stage_id": {
+  "id" : 3,
+  "name" : "Proposition"
+}], ["id": 27, "name": Interest in your products, "stage_id": {
+  "id" : 4,
+  "name" : "Won"
+}], ["id": 26, "name": Would appreciate more information about your products, "stage_id": {
+  "id" : 3,
+  "name" : "Proposition"
+}], ["id": 16, "name": Need a new design for my website, "stage_id": {
+  "id" : 2,
+  "name" : "Qualified"
+}], ["id": 14, "name": Interest in your Graphic Design Project, "stage_id": {
+  "id" : 1,
+  "name" : "New"
+}], ["id": 21, "name": “Resource Planning” project develpment, "stage_id": {
+  "id" : 3,
+  "name" : "Proposition"
+}], ["id": 20, "name": Interest in your Partnership Contract, "stage_id": {
+  "id" : 4,
+  "name" : "Won"
+}], ["id": 5, "name": Need a Quotation for Computers with Accessories, "stage_id": {
+  "id" : 1,
+  "name" : "New"
+}], ["id": 19, "name": Interest in your customizable Pcs, "stage_id": {
+  "id" : 3,
+  "name" : "Proposition"
+}], ["id": 17, "name": Pricing Information of Services, "stage_id": {
+  "id" : 3,
+  "name" : "Proposition"
+}], ["id": 18, "name": Trainee's training plan in your Organization, "stage_id": {
+  "id" : 2,
+  "name" : "Qualified"
+}], ["id": 15, "name": Plan to buy RedHat servers, "stage_id": {
+  "id" : 2,
+  "name" : "Qualified"
+}], ["id": 22, "name": Need script to Import external data, "stage_id": {
+  "id" : 3,
+  "name" : "Proposition"
+}], ["id": 2, "name": Interest in Your New Software, "stage_id": {
+  "id" : 1,
+  "name" : "New"
+}], ["id": 23, "name": Want to subscribe to your online solution, "stage_id": {
+  "id" : 4,
+  "name" : "Won"
+}], ["id": 24, "name": Need 20 Days of Consultancy, "stage_id": {
+  "id" : 3,
+  "name" : "Proposition"
+}], ["id": 32, "name": Consulating CRM (2 days), "stage_id": {
+  "id" : 4,
+  "name" : "Won"
+}]]
 }
