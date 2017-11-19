@@ -1,55 +1,55 @@
-{"posts": [["id": 31, "name": q20, "stage_id": {
+{"posts": [["id": 31, "text": q20, "user_id": {
   "id" : 1,
   "name" : "New"
-}], ["id": 30, "name": test 3, "stage_id": {
+}], ["id": 30, "text": test 3, "user_id": {
   "id" : 3,
   "name" : "Proposition"
-}], ["id": 27, "name": Interest in your products, "stage_id": {
+}], ["id": 27, "text": Interest in your products, "user_id": {
   "id" : 4,
   "name" : "Won"
-}], ["id": 26, "name": Would appreciate more information about your products, "stage_id": {
+}], ["id": 26, "text": Would appreciate more information about your products, "user_id": {
   "id" : 3,
   "name" : "Proposition"
-}], ["id": 16, "name": Need a new design for my website, "stage_id": {
+}], ["id": 16, "text": Need a new design for my website, "user_id": {
   "id" : 2,
   "name" : "Qualified"
-}], ["id": 14, "name": Interest in your Graphic Design Project, "stage_id": {
+}], ["id": 14, "text": Interest in your Graphic Design Project, "user_id": {
   "id" : 1,
   "name" : "New"
-}], ["id": 21, "name": “Resource Planning” project develpment, "stage_id": {
+}], ["id": 21, "text": “Resource Planning” project develpment, "user_id": {
   "id" : 3,
   "name" : "Proposition"
-}], ["id": 20, "name": Interest in your Partnership Contract, "stage_id": {
+}], ["id": 20, "text": Interest in your Partnership Contract, "user_id": {
   "id" : 4,
   "name" : "Won"
-}], ["id": 5, "name": Need a Quotation for Computers with Accessories, "stage_id": {
+}], ["id": 5, "text": Need a Quotation for Computers with Accessories, "user_id": {
   "id" : 1,
   "name" : "New"
-}], ["id": 19, "name": Interest in your customizable Pcs, "stage_id": {
+}], ["id": 19, "text": Interest in your customizable Pcs, "user_id": {
   "id" : 3,
   "name" : "Proposition"
-}], ["id": 17, "name": Pricing Information of Services, "stage_id": {
+}], ["id": 17, "text": Pricing Information of Services, "user_id": {
   "id" : 3,
   "name" : "Proposition"
-}], ["id": 18, "name": Trainee's training plan in your Organization, "stage_id": {
+}], ["id": 18, "text": Trainee's training plan in your Organization, "user_id": {
   "id" : 2,
   "name" : "Qualified"
-}], ["id": 15, "name": Plan to buy RedHat servers, "stage_id": {
+}], ["id": 15, "text": Plan to buy RedHat servers, "user_id": {
   "id" : 2,
   "name" : "Qualified"
-}], ["id": 22, "name": Need script to Import external data, "stage_id": {
+}], ["id": 22, "text": Need script to Import external data, "user_id": {
   "id" : 3,
   "name" : "Proposition"
-}], ["id": 2, "name": Interest in Your New Software, "stage_id": {
+}], ["id": 2, "text": Interest in Your New Software, "user_id": {
   "id" : 1,
   "name" : "New"
-}], ["id": 23, "name": Want to subscribe to your online solution, "stage_id": {
+}], ["id": 23, "text": Want to subscribe to your online solution, "user_id": {
   "id" : 4,
   "name" : "Won"
-}], ["id": 24, "name": Need 20 Days of Consultancy, "stage_id": {
+}], ["id": 24, "text": Need 20 Days of Consultancy, "user_id": {
   "id" : 3,
   "name" : "Proposition"
-}], ["id": 32, "name": Consulating CRM (2 days), "stage_id": {
+}], ["id": 32, "text": Consulating CRM (2 days), "user_id": {
   "id" : 4,
   "name" : "Won"
 }]]
