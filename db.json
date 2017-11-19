@@ -2,7 +2,7 @@
   "users": [
     {
       "id": 1,
-      "name": "Leanne Graham",
+      "name": "Leanne Graham 2",
       "username": "Bret",
       "email": "Sincere@april.biz",
       "address": {
@@ -25,7 +25,7 @@
     },
     {
       "id": 2,
-      "name": "Ervin Howell",
+      "name": "Ervin Howell 2",
       "username": "Antonette",
       "email": "Shanna@melissa.tv",
       "address": {
@@ -48,7 +48,7 @@
     },
     {
       "id": 3,
-      "name": "Clementine Bauch",
+      "name": "Clementine Bauch 2",
       "username": "Samantha",
       "email": "Nathan@yesenia.net",
       "address": {
